@@ -1,0 +1,8 @@
+prefix=/home/venu/catkin_ws/build/devel
+
+Name: edhitha
+Description: Description of edhitha
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs roscpp rospy mavros_msgs
